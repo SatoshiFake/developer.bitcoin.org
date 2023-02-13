@@ -73,4 +73,5 @@ version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+Adicionamos sua torneira com sucesso ao nosso banco de dados. Sua chave da API é ebac95a7f9115e29e47122628a8d95904c4df6d8
 
