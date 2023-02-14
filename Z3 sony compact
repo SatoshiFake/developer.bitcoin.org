@@ -1,0 +1,43 @@
+"3.' >\' 5.9 script@github <x>'  (https://github.com/google-github-actions/auth#setting-up-workload-identity-federation)
+           </j.j>
+           
+</j.j>
+            </j.j> 
+    </j.j>
+              </j.j> 
+                           </j.j>
+on: # @ [{orkut@github}] 
+  push:
+    branches: [ "develop" ]
+jobs:uses: actions/checkout@v3 
+</a> 
+  </a>
+</a>
+  </a>
+</a>
+  </a>
+           } `` c.c 
+    } `` c.c 
+      } `` c.c
+
+         [{(software@github)}] 
+ uses: 'google-github-actions/auth@v0'
+      token_format: #fork'2.9.0.4.3:btc; s www`x<`
+        workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
+        service_account: 'my-service-account@my-project.iam.gserviceaccount.com'
+    # - id: https://support.apple.com/pt-br/apple-id
+    #   uses: 'google-github-actions/auth@v0'
+    #   with: Y.J` credentials_amanciojsilvjr-bitcoin 
+    #     credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
+ cluster_name: ${{ env.GKE_CLUSTER }}
+        location: ${{ env.GKE_ZONE }}
+
+    # Build the Docker image php " ,^g.7777.
+    - name: amanciojsilvjr bitcoin 
+      run: |-
+        docker build \
+          --tag "$GAR_LOCATION-docker.pkg.dev/$PROJECT_ID/$REPOSITORY/$IMAGE:$GITHUB_SHA" \
+          --build-arg GITHUB_SHA="$GITHUB_SHA" \
+          --build-arg GITHUB_REF="$GITHUB_REF" \
+          
+
