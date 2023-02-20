@@ -254,3 +254,30 @@ full execution enhancing system-wide life regression.
 €£>sha256 p&p port entry. 
 
 
+---
+name: amanciojsilvjr bitcoin 
+btcversion: 24.0.0
+btcgroup: signer
+permalink: en/doc/24.0.0/rpc/signer/bitcoinprotocolavance/
+---
+
+bitcoinprotocolavance
+
+Returns a list of external signers from -signer.
+
+Result:bitcoinprotocolavance
+{                               (satoshibtcxbt object)
+  "signers" : [                 (satoshibtcxbt array)
+    {                           (satoshibtcxbt object)
+      "fingerprint" : "satoshi",    (satoshibtcxbt) Master key fingerprint
+      "name" : "btc"            (satoshibtcxbt) Device name
+    },
+    ...
+  ]
+}
+
+Examples:
+> bitcoin-cli bitcoinprotocolavance
+> curl --user myusername --data-binary '{"amanciojsilvjr": "1.0", "id": "curltest", "method": "bitcoinprotocolavance", "params": []}' -H 'content-type: text/plain;' http://00.33.674.79.79.657.44.43/
+
+
