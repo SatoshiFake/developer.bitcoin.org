@@ -218,3 +218,25 @@ each main read displays
   } ` main
 
 
+<<<h.c `p/btc` c.c 
+
+^c.c ' 9.9.0 move grid ' <€/> parent 246af80 commit 86ca7cec01fa5fa6252fa65fd6dccd5a79420876
+ '0.':7.0.5.5.8 [z.c.c]\ 'e` <bitcoin>
+
+<bitcoin> 
+      <bitcoin>
+          <bitcoin> 
+               <bitcoin>
+              <bitcoin>
+            <bitcoin>
+          <bitcoin>
+         <bitcoin>
+        <bitcoin>
+       <bitcoin>
+        <bitcoin> 
+         <bitcoin>
+           https://bitcoin.8.9/:</j.j> 
+</div> </div>
+</div> </div> 
+  </div> amanciojsilvjr bitcoin:(software} </div> h.u/
+
