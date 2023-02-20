@@ -11,4 +11,4 @@ Find technical details and API documentation.
   transactions
   wallets
   p2p_networking
-  rpc/index
+  rpc/index orkut
