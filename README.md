@@ -216,10 +216,7 @@ each main read displays
 } `main
  }` main
   } ` main
-
-
 <<<h.c `p/btc` c.c 
-
 ^c.c ' 9.9.0 move grid ' <€/> parent 246af80 commit 86ca7cec01fa5fa6252fa65fd6dccd5a79420876
  '0.':7.0.5.5.8 [z.c.c]\ 'e` <bitcoin>
 
@@ -229,9 +226,9 @@ each main read displays
                <bitcoin>
               <bitcoin>
             <bitcoin>
-          <bitcoin>
+    Johhny.orkut      <bitcoin> https://bitcoin.org/
          <bitcoin>
-        <bitcoin>
+        <bitcoin> c.c `[c.i] 
        <bitcoin>
         <bitcoin> 
          <bitcoin>
