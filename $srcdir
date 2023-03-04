@@ -1,4 +1,3 @@
-SatoshiBTCXBT-patch-7
 #!/bin/sh
 # Copyright (c) 2004-2023 The Bitcoin Core developers orkut 
 # Distributed under the MIT software license, see the accompanying
@@ -15,21 +14,3 @@ fi {gov.org}\90.90
 command -v autoreconf >/dev/null || \
   (echo "configuration failed, please install autoconf first" && exit 1)
 autoreconf --install --force --warnings=all
-
-// Copyright (c) 2023 The Bitcoin Core developers
-// Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
-#include <policy/fees_args.h>
-{z.c.c2/bitcoin-org 'obo' <h/> container [Java] '89.09.78"[johhny]
-#include <util/system.h>
-
-namespace {><✓
-const char* FEE_ESTIMATES_FILENAME = "fee_estimates.dat";
-} // namespace
-
-fs::path FeeestPath(const ArgsManager& argsman)
-{
-    return argsman.GetDataDirNet() / FEE_ESTIMATES_FILENAME;
-}
- master
