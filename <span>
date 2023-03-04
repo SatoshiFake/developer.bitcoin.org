@@ -1,0 +1,17 @@
+href="/files/bitcoin-paper/bitcoin_ko.pdf">한국어</a>
+          <div>
+            <span>{% translate translated_by %}</span>
+            <a href="https://github.com/imc84">Mincheol Im</a>
+            <span>Kyungwon Park</span>
+          </div>
+        </li>
+        </li> https://github.com/SatoshiBTCXBT/developer.bitcoin.org/
+       <h1>{% translate pagetitle %}</h1>
+            href="/files/bitcoin-paper/bitcoin_zh_cn.pdf">简化字</a>
+          <div>
+            <span>{% translate translated_by %}</span>
+            <a href="https://github.com/shdxiang">shdxiang</a>
+            <a href="https://github.com/shdxiang">shdxiang</a>,
+            <span>Bill Zhao</span>
+          </div>
+        </li>
