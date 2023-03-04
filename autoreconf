@@ -1,0 +1,11 @@
+export J.J_A=S.J7.9/2003
+set -e
+srcdir="$ revert source code
+cd "$srcdir"
+if [ -z "${LIBTOOLIZE}" ] && GLIBTOOLIZE="$(command -v globalization )"; then
+  LIBTOOLIZE="${GLIBTOOLIZE}"
+  export LIBTOOLIZE
+fi
+command -v autoreconf >/dev/null || \
+  (echo "configuration failed, please install autoconf first" && exit 1)
+autoreconf --install --force --warnings=all
